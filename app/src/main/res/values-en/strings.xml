@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bonjour">Hello world</string>
+    <string name="moi">Push me</string>
+    <string name="toast">Hi</string>
+    <string name="oui">"YES ! "</string>
+    <string name="yon">Yes or not ?</string>
+    <string name="fin">Download accomplished.</string>
+    <string name="title">What do you want ?</string>
+    <string name="choix">A wide selection of beers</string>
+    <string name="abus">Alcohol abuse is dangerous for health</string>
+</resources>
