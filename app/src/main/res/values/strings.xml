@@ -9,5 +9,6 @@
     <string name="fin">Téléchargement terminé.</string>
     <string name="yon">Oui ou non ?</string>
     <string name="abus">L\'abus d\'alcool est dangereux pour la santé</string>
-
+    <string name="soif">Avez-vous une petite soif ?</string>
+    <string name="suivre">Suivez moi</string>
 </resources>

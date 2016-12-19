@@ -9,4 +9,6 @@
     <string name="title">What do you want ?</string>
     <string name="choix">A wide selection of beers</string>
     <string name="abus">Alcohol abuse is dangerous for health</string>
+    <string name="soif">Are you thirsty ?</string>
+    <string name="suivre">Follow me</string>
 </resources>

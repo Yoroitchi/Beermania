@@ -42,8 +42,8 @@ public class MainActivity extends AppCompatActivity {
 
             case R.id.button2:
                 NotificationCompat.Builder mBuilder = (Builder) new Builder(this)
-                        .setContentTitle("Avez vous une petite soif ?")
-                        .setContentText("Voici notre selection")
+                        .setContentTitle(this.getApplicationContext().getString(R.string.soif))
+                        .setContentText(this.getApplicationContext().getString(R.string.suivre))
                         .setSmallIcon(android.R.drawable.alert_dark_frame);
                 Intent resultIntent = new Intent(this, FirstActivity.class);
                 PendingIntent resultPendingIndent = PendingIntent.getActivity(this, 0, resultIntent, PendingIntent.FLAG_UPDATE_CURRENT);
